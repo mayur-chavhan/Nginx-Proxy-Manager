@@ -1,9 +1,14 @@
 {
- "database": {
- "engine": "mysql",
- "host": "db",
- "name": "npman",
- "user": "npman",
- "password": "password",
- "port": 3306
- },
+  "database": {
+    "engine": "mysql",
+    "host": "db",
+    "name": "npman",
+    "user": "npman",
+    "password": "password",
+    "port": 3306
+  },
+  "jwt": {
+    "key": "-----BEGIN RSA PRIVATE KEY-----\nMIIEpAIBAAKCAQEAlUbq3wEykLFQ+ReoNLyF9Y/bn+LY8XSsGSA7RKvjNDaFDxen\nNptI8nNTXl0C73p/71VbwqiMQ7ZnsXGp1NtBjWucWJ4l0CUL5QKYoGinntzfVh7S\nGPoH7JoQslq/42VDjBisGp9hr/mYoVJCUT99SUmgvJhgfEZ7S5rcHdG5EK6d5Lkz\nMrIcT7BY7IulNOuVwJue5BDv7e52LqjMNWNP5KkaOYJqRbMRA/m9aPjKVF1MPCOq\nWAuPS11UP0jdXEGL+lLFV8EAF03AsZbSWizpHGg8+aGHLZIOBYtPF+CaXVYuVz9v\nrzePMdiLSRAdBVi+nj7ZwqqLn2eHVYRzr0eSJQIDAQABAoIBAGgi9ACkXjkQadOL\njF1V0wHu3KDaaMtwwAo7MP2EB9lJ22Me9hijFa2FhHhE3KJhy9QTsRLH8Cngms/v\n4jFKz50vn/82PFzLK1QUjpMAz0aFAQycLacc7eBBzjoOEuU4pHmcUJu16jkQH0kT\nEI6LgwRYZ9iJWG354VNp8fqfbsJSbQmcftMOUjrYNSP+0jWXLUTiMVo61t7+Mfs4\nyizN20Vpqj/DhcvFAQKm8Pk2ph5yTPeox6Tml2wH3qwrhptp/HbI5fR3kqQjzxMP\nnOkj88NBNfKBStXAiQc818GRkyvWdB1/LlJaOaKptwV5itK3kXSyk6NeDJ/oAp/C\nRzmVr0ECgYEA0bapaeRpvy0rtJwD0dYUbEqM1Zs6PS8PE4Wn+id5ZsvBrZy5ePmY\nEl13XazoKErw2Ce2Qb4p94pKnRbOjQhggvregHMUPH9NnnCwIeMb4ORepY3HBTY1\nCqNNdkVS8333HcKWg3HyyTw8s33lL8A6VqsYAXlbkydX9Kp7WNguGnECgYEAtjlx\nOwyjy5DTBcykWRUWnBvni1A3tpflB53oC+SflsdWavx4Gb7x88LwFHdhBDMjEhiB\nUvSc6gApALkdiFg4iynP0ManRTjUiRZv1gzARa1P2hbxS6EUav27kLMZefrLN8bl\nbmI7pAQuneUAETM1qkMlGJFramrgUQFF14TmhPUCgYEAjwR5KMQi8cPGaJd1a2cJ\n6og033/LCerL505hLhI5kscmQFX/jub4tJ2VSAchFEl3UpJSkycyy6Q+Gj9xgXDT\nEMAxeXwBsvhGYOUM2S9e1dIoUdMMhRtgtO6FZ0EDvxaKrnsD1oShRGeWJfqXkCcS\nIgTwjCDNON+99hdFo2NanaECgYA2dKoa7GcSkYAOjp5apMux8UDbyCguH+xov062\nJyduBroTlMlLYF2r7AiVBSvv9lw3ry0Onl06LLwUJD3oHf0f0WnySTt5m0cghJz9\nSag36lgfo5WOdV/FrXfdATjO1Bzg2UZ9G0wZcsp/kwzXFweljxVJ50NDdRb9/jRh\n+Kxu9QKBgQCCGmh7cvDIqm9ul/6QYVqaPoIshilVhoqWaMqWgCShlwbwVrGno0RM\ngEVXv/FugRT2HNDRmLXck96pz3C55wTvcMoswp1fSWXYZ0foP4NQr642Lh4ZTywW\ntx9lP6QIDb157TG98edlDPmWUB1exfnlJrOXQ4n+OcvZMatFG1DYyA==\n-----END RSA PRIVATE KEY-----",
+    "pub": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAlUbq3wEykLFQ+ReoNLyF\n9Y/bn+LY8XSsGSA7RKvjNDaFDxenNptI8nNTXl0C73p/71VbwqiMQ7ZnsXGp1NtB\njWucWJ4l0CUL5QKYoGinntzfVh7SGPoH7JoQslq/42VDjBisGp9hr/mYoVJCUT99\nSUmgvJhgfEZ7S5rcHdG5EK6d5LkzMrIcT7BY7IulNOuVwJue5BDv7e52LqjMNWNP\n5KkaOYJqRbMRA/m9aPjKVF1MPCOqWAuPS11UP0jdXEGL+lLFV8EAF03AsZbSWizp\nHGg8+aGHLZIOBYtPF+CaXVYuVz9vrzePMdiLSRAdBVi+nj7ZwqqLn2eHVYRzr0eS\nJQIDAQAB\n-----END PUBLIC KEY-----"
+  }
+}
