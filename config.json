@@ -1,0 +1,9 @@
+{
+ "database": {
+ "engine": "mysql",
+ "host": "db",
+ "name": "npman",
+ "user": "npman",
+ "password": "password",
+ "port": 3306
+ },
