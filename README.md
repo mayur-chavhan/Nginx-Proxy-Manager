@@ -1,4 +1,4 @@
-# Nginx-Proxy-Manager
+![Nginx-Proxy-Manager](https://socialify.git.ci/mayur-chavhan/Nginx-Proxy-Manager/image?description=1&font=Bitter&pattern=Charlie%20Brown&theme=Dark)
 
 ## Pre-requisit
 
